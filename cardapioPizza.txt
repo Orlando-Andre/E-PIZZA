@@ -1,0 +1,21 @@
+******************* PIZZA DE SAL *********************
+COD   SABOR                           INGREDIENTES                                        PEQUENO  MÉDIO  GRANDE
+1   Calabresa            (mussarela, calabresa, cebola e tomate)                           28,00   42,00   56,00
+2   Portuguesa           (mussarela, presunto, palmito, calabresa, cebola, ovos e bacon)   32,00   48,00   54,00	   
+3   Quatro Queijo        (mussarela, provolone, gorgonzola e catupiry)                     28,00   42,00   56,00		    
+4   Bacon                (mussarela, bacon, ovos e tomate)                                 28,00   42,00   56,00		    
+5   Frango com Caturipy  (mussarela, frango, catupiry e tomate)                            28,00   42,00   56,00	    
+6   Atum                 (mussarela, atum, cebola e tomate)                                23,00   34,50   46,00		    
+7   Mussarela            (mussarela e tomate)                                              24,50   36,75   49,00	   
+8   Presunto             (mussarela, presunto, cebola e tomate)                            28,00   42,00   56,00
+9   Napolitana           (mussarela, oregano e tomate)                                     28,00   42,00   56,00
+10  Paulista             (mussarela, presunto, palmito, bacon e tomate)                    32,00   48,00   54,00 
+
+******************* PIZZA DE DOCE ********************
+COD    SABOR                          INGREDIENTES                        PEQUENO          MÉDIO          GRANDE
+1   Brigadeiro              (chocolate ao leite e granulado)               12,00           18,00           24,00
+2   Banana com canela       (banana, leite condensado e canela)            18,00           27,00           36,00
+3   Banana com mussarela    (mussarela, banana e canela)                   20,00           30,00           40,00
+4   Banana com chocolate    (banana e chocolate ao leite)                  24,00           36,00           48,00
+5   Prestígio               (chocolate ao leite e coco ralado)             28,00           42,00           56,00
+6   Romeu e Julieta         (mussarela e goiabada)                         32,00           48,00           64,00
