@@ -1,0 +1,2 @@
+nome::Alexandre Cardoso Araujo::e-mail::alexandre@gmail.com::telefone::62999330402::cpf::07339734180::rua::Rua::bairro::Bairro::complemento:: ::
+nome::Perfil Teste::e-mail::testmail@test.com::telefone::999999999::cpf::21715444655::rua::rua::bairro::bairro::complemento:: ::
