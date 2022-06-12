@@ -6,8 +6,7 @@ public class Pedido {
         Scanner dado = new Scanner(System.in);
         float totalPizzaSal,totalPizzaDoce,totalBebidas, totalPedido = 0.0f;
         System.out.print("Digite o CPF: ");
-        // ? preciso saber qual a variavel
-        // validar cpf
+        
 
         menuPizzaSal.menuPizzaSal();
 
