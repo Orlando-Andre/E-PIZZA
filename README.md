@@ -1,6 +1,6 @@
 # E-PIZZA
 
-Projeto instruído por Lucília Ribeiro a qual é docente da disciplina CMP1046/C02 de Laboratório de Programação. Além disso, este tem objetivo de aprimorar os conhecimentos adquiridos no decorrer do semestre e conteúdos externos. Apresentado dia 15 de junho de 2022.
+Projeto Acadêmico instruído por Lucília Ribeiro a qual é docente da disciplina CMP1046/C02 de Laboratório de Programação na Pontifícia Universidade Católica de Goiás. Além disso, este tem objetivo de aprimorar os conhecimentos adquiridos no decorrer do semestre e conteúdos externos. Apresentado dia 15 de junho de 2022.
 
 Percebendo a altíssima demanda por pedidos delivery nós da Net Spices desenvolvemos o E-PIZZA, uma  plataforma revolucionária que une pizzarias a milhões de pessoas loucas por pizza como nós.
 
