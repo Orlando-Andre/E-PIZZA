@@ -5,7 +5,6 @@ public class Pedido {
     public static void pedido() {
         Scanner dado = new Scanner(System.in);
         float totalPizzaSal,totalPizzaDoce,totalBebidas, totalPedido = 0.0f;
-        System.out.print("Digite o CPF: ");
         
 
         menuPizzaSal.menuPizzaSal();

@@ -50,7 +50,6 @@ public class pagamento {
 		    } 
             else {
 		        if(pagamento == 2) {
-		            // Imprimir nome e CPF arquivo Alexandre txt
 					System.out.printf("total do pedido R$ %.2f\n\n",totalPedido);
 		            System.out.print("Digite o número do cartão: ");
     		        nCartao = dado.nextInt();
