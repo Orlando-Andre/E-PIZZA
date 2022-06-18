@@ -7,7 +7,7 @@ Percebendo a altíssima demanda por pedidos delivery nós da Net Spices desenvol
 Esta aplicação está sendo desenvolvida para  pizzarias que queiram atualizar suas empresas e posicioná-las de forma online, disponibilizando para os seus clientes uma forma simples, rápida e prática no pedido de pizzas, chega de esperar horas para deliciar sua pizza,  com o E-pizza ficou muito mais fácil e agradável pedir pizzas.
  
  Executado por :
- https://github.com/Orlando-Andre \n
+ https://github.com/Orlando-Andre <br\>
  https://github.com/Alexandre-CA
  
  
