@@ -6,4 +6,5 @@ Percebendo a altíssima demanda por pedidos delivery nós da Net Spices desenvol
 
 Esta aplicação está sendo desenvolvida para  pizzarias que queiram atualizar suas empresas e posicioná-las de forma online, disponibilizando para os seus clientes uma forma simples, rápida e prática no pedido de pizzas, chega de esperar horas para deliciar sua pizza,  com o E-pizza ficou muito mais fácil e agradável pedir pizzas.
  
+file:///C:/Users/orlan/OneDrive/Documentos/Faculdade/Laborat%C3%B3rio/1%C2%BASemestre/AED/doc.E-pizza/Principal.pdf
 
