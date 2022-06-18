@@ -1,0 +1,25 @@
+Equipe NetSpice
+
+APP: 
+*********        ********* ********* ********** **********      ****
+*                *       *    ***           **        **       **  **
+*                *       *    ***         **        **        **    **
+*********  ****  *********    ***        **        **        **      **
+*                *            ***       **        **        **  ****  **
+*                *            ***     **        **         **          **
+*********        *         ********* ********* ********** **            **
+
+Integrantes:
+Alexandre Cardoso Araújo  2022.1.0120.0011-0   Participação 5
+Heloísa Mendes da Silva   2022.1.0120.0009-9   Participação 5
+Orlando André Souza Neto  2022.1.0120.0014-5   Participação 5
+
+Descrição:
+Percebendo a altíssima demanda por pedidos delivery nós da Net Spices desenvolvemos o E-PIZZA, uma  plataforma revolucionária que une pizzarias a milhões de pessoas loucas por pizza como nós.Esta aplicação está sendo desenvolvida para  pizzarias que queiram atualizar suas empresas e posicioná-las de forma online, disponibilizando para os seus clientes uma forma simples, rápida e prática no pedido de pizzas, chega de esperar horas para deliciar sua pizza,  com o E-pizza ficou muito mais fácil e agradável pedir pizzas.
+
+Apresentações
+Pitch de negócios       Heloísa Mendes
+Apresentação técnica    Alexande Cardoso e Orlando André
+
+Link Git Hub
+ https://github.com/NetSpices
